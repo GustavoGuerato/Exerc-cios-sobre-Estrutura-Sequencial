@@ -1,0 +1,14 @@
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\bin\Debug\net8.0\CursoNelio.exe
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\bin\Debug\net8.0\CursoNelio.deps.json
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\bin\Debug\net8.0\CursoNelio.runtimeconfig.json
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\bin\Debug\net8.0\CursoNelio.dll
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\bin\Debug\net8.0\CursoNelio.pdb
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\obj\Debug\net8.0\CursoNelio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\obj\Debug\net8.0\CursoNelio.AssemblyInfoInputs.cache
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\obj\Debug\net8.0\CursoNelio.AssemblyInfo.cs
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\obj\Debug\net8.0\CursoNelio.csproj.CoreCompileInputs.cache
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\obj\Debug\net8.0\CursoNelio.dll
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\obj\Debug\net8.0\refint\CursoNelio.dll
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\obj\Debug\net8.0\CursoNelio.pdb
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\obj\Debug\net8.0\CursoNelio.genruntimeconfig.cache
+C:\Users\NOTE\source\repos\CursoNelio\CursoNelio\obj\Debug\net8.0\ref\CursoNelio.dll
